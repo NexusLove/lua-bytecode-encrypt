@@ -2,23 +2,19 @@
 
 ###  support version 5.0 + ，I'm not yet test 5.0 -, should support.
 
-## origin hex data
+## left origin luac | right encrypt  luac
 
-![image-20190527163701662](./image/image-20190527163701662.png)
+![image-20190530115825026](./image/image-20190530115825026.png)
 
-## encrypt hex data
-
-![image-20190527170403870](./image/image-20190527170403870.png)
+## 
 
 ## generate luac
 
 ![image-20190527170758775](./image/image-20190527170758775.png)
 
-## run luac
+## run luac (support origin and encrypt luac)
 
-![image-20190527170857292](./image/image-20190527170857292.png)
-
-![image-20190527170949673](./image/image-20190527170949673.png)
+![image-20190530120155831](./image/image-20190530120155831.png)
 
 # Business cooperation, please contact
 
