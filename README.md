@@ -1,6 +1,7 @@
 # Demo
 
 ###  support version 5.0 + ，I'm not yet test 5.0 -, should support.
+###  support all platforms(osx,win,linux,ios,android)
 
 ## left origin luac | right encrypt  luac
 
